@@ -1,0 +1,7 @@
+import SwiftUI
+
+let celsius = 78.0
+
+let fahrenheit = (celsius * 9.0 / 5.0) + 32.0
+
+print("\(celsius)°C = \(fahrenheit)°F")
